@@ -47,8 +47,9 @@ Siempre busco aprender nuevas tecnologías, mejorar mis prácticas y crear proye
 ---
 
 ## 💼 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tu-linkedin-aqui)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:tuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/moisesacc)
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](moisesaaroncc03@gmail.com)
 
 ---
 
