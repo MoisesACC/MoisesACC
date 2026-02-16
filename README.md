@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Moises!
-🚀 **Junior Developer in Training** | 💻 **Egresado de Computación e Informática** | ⚙️ **Backend & Systems Enthusiast**
+🚀 **Backend Developer** | 💻 **Egresado de Computación e Informática** | ⚙️ **Backend & Systems Enthusiast**
 
 🎓 Graduado de **Cibertec**, con pasión por el desarrollo de software, la lógica de programación y la creación de soluciones tecnológicas sólidas y eficientes.
 
