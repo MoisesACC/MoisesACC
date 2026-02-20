@@ -27,26 +27,29 @@ Soy egresado de **Cibertec** con una sólida base técnica en computación e inf
 ### 🔌 Herramientas & Entornos
 [![Herramientas](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,eclipse,postman,swagger,figma,notion,trello,docker,aws)](https://skillicons.dev)
 
----
-
 ## 📊 Living Metrics
 He aquí un vistazo a mi actividad y evolución técnica:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoisesACC&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesACC&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoisesACC&theme=tokyonight&hide_border=true" width="100%" />
-</p>
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=MoisesACC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de Moisés" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesACC&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoisesACC&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ### 🌌 Activity Universe
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoisesACC&theme=react&bg_color=0D1117&color=40c463&line=40c463&point=40c463&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoisesACC&theme=react&bg_color=0D1117&hide_border=true&area=true" width="100%" />
 </p>
-
----
 
 ## 🏆 GitHub Achievements
 <p align="left">
