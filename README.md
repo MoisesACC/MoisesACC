@@ -13,7 +13,6 @@ Soy egresado de **Cibertec** con una sólida base técnica en computación e inf
 - 🛠️ Especializado en el ecosistema **Java (Spring Boot)** y **.NET (C#)**.
 - 📐 Apasionado por el diseño de arquitecturas limpias y código bien estructurado.
 - 🎓 Constantemente perfeccionando mis habilidades en microservicios, seguridad y optimización de bases de datos.
-- 🤝 Fiel creyente del trabajo en equipo y la metodología ágil para entregar valor continuo.
 
 ---
 
@@ -34,7 +33,7 @@ Soy egresado de **Cibertec** con una sólida base técnica en computación e inf
 He aquí un vistazo a mi actividad y evolución técnica:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoisesACC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de Moisés" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MoisesACC&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Estadísticas de Moisés" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesACC&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" width="48%"/>
 </p>
 
@@ -42,9 +41,9 @@ He aquí un vistazo a mi actividad y evolución técnica:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoisesACC&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" width="100%"/>
 </p>
 
-### 🌌 Universo de Actividad
+### 🌌 Activity Universe
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoisesACC&theme=tokyonight&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoisesACC&theme=react&bg_color=0D1117&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
