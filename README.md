@@ -41,10 +41,6 @@ He aquí un vistazo a mi actividad y evolución técnica:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MoisesACC&theme=tokyonight" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoisesACC&theme=tokyonight&hide_border=true" width="100%" alt="Racha de contribuciones" />
-</p>
-
 ### 🌌 Activity Universe
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoisesACC&theme=react&bg_color=0D1117&hide_border=true&area=true" width="100%" />
